@@ -25,9 +25,7 @@ class ProductServiceImplTest {
                 new Product("Apple", "Red")
         );
         expectedList2 = List.of(
-                new Product("Edems", "Tea"),
-                new Product("Shampoo", "Great shampoo"),
-                new Product("Apple", "Red")
+                new Product("Kiwi", "Green")
         );
     }
 
